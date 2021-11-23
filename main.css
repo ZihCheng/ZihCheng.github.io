@@ -14,3 +14,8 @@ p{
 	font-size: 25px;
 	text-align: center;
 }
+.buttonstyle{
+	width: 48%;
+	height: 25%;
+	font-size: 1.5rem;
+}
